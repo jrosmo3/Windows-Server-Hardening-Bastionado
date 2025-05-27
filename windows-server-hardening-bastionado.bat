@@ -1,6 +1,6 @@
 @echo off
 :: ===========================================================================
-:: Windows Server 2019 Hardening Script (Enhanced) — Con RDP habilitado
+:: Windows Server 2019-2022 Hardening Script (Enhanced) — Con RDP habilitado
 :: ===========================================================================
 
 setlocal enabledelayedexpansion
