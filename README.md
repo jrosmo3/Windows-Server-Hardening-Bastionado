@@ -1,7 +1,7 @@
 # Windows-Server-Hardening-Bastionado
 Script para bastionar Windows Server
 
-Este proyecto contiene un script de hardening para Windows Server 2019 que automatiza más de 20 controles de seguridad basados en STIG, CIS y buenas prácticas adicionales, incluyendo:
+Este proyecto contiene un script de hardening para Windows Server 2019-2022 que automatiza más de 20 controles de seguridad basados en STIG, CIS y buenas prácticas adicionales, incluyendo:
 
 - Deshabilitar SMBv1 y forzar SMB Signing
 - Endurecer protocolos TLS/SSL
