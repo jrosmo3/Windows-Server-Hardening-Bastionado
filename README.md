@@ -33,7 +33,7 @@ Este proyecto contiene un script de hardening para Windows Server 2019 que autom
 
 1. Clonar o descargar este repositorio.
 2. Colocar el script en una ruta accesible.
-3. Abrir PowerShell como administrador y ejecutar el script
+3. Abrir CMD como administrador y ejecutar el script
 4. Revisar el log generado en la misma carpeta.
 
 ## Contribuciones
